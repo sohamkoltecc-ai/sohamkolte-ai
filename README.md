@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0047AB&height=250&section=header&text=Soham%20Kolte&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 # 👋 Hi, I'm Soham Kolte
 
 <h3 align="center">
@@ -59,9 +63,9 @@ Game Developer • Software Developer • Graphics Programming Enthusiast
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sohamkolte-ai&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamkolte-ai&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -70,7 +74,7 @@ Game Developer • Software Developer • Graphics Programming Enthusiast
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sohamkolte-ai&theme=tokyonight" />
 </p>
 
 ---
@@ -91,13 +95,6 @@ Game Developer • Software Developer • Graphics Programming Enthusiast
 
 ## 🚀 Featured Projects
 
-### 🎮 Horror Game Project
-
-- Story Driven Gameplay
-- Inventory System
-- Puzzle Mechanics
-- Interactive Notes
-- Atmospheric Horror Experience
 
 ### 📱 Daily Report Generator
 
@@ -118,20 +115,20 @@ Game Developer • Software Developer • Graphics Programming Enthusiast
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sohamkolte-ai&theme=tokyo-night"/>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sohamkolte-ai&theme=tokyonight&column=7"/>
 
 ---
 
 ## 🌍 Connect With Me
 
 <p>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/sohamkolte-ai">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 </p>
@@ -140,7 +137,7 @@ Game Developer • Software Developer • Graphics Programming Enthusiast
 
 ## 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=sohamkolte-ai&color=blue)
 
 ---
 
