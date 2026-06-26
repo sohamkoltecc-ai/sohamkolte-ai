@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0047AB&height=250&section=header&text=Soham%20Kolte&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:0047AB&height=250&section=header&text=Soham%20Kolte&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <h3 align="center">
@@ -7,70 +7,110 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Game+Developer;Unity+Developer;Flutter+Developer;C%2B%2B+Programmer;Graphics+Programming+Enthusiast;Future+Game+Engine+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Game+Developer;Unity+Developer;Flutter+Developer;C%2B%2B+Programmer;Graphics+Programming+Enthusiast;Future+Game+Engine+Developer" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=sohamkolte-ai&label=Profile+Views&color=0e75b6&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=sohamkolte-ai&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎮 Building games, software tools, and exploring graphics programming.
+🎮 Passionate about creating immersive games and software solutions.
 
-📚 Currently learning:
-- OpenGL & Rendering
-- Game Engine Architecture
+⚡ Currently focused on:
+
+- Game Development
+- Unity Engine
+- OpenGL & Graphics Programming
+- Flutter Development
 - Advanced C++
-- Unity Development
+- Game Engine Architecture
 
 🎯 Goal: Build high-quality games and eventually create my own game engine.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,cs,dart,flutter,unity,blender,firebase,git,github,vscode,visualstudio,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,dart,flutter,unity,blender,firebase,git,github,vscode,visualstudio,html,css,js" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sohamkolte-ai&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamkolte-ai&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sohamkolte-ai&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamkolte-ai&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 📱 Daily Report Generator
-Track daily work, manage records, and generate professional PDF reports.
+
+A productivity application that helps users:
+
+- Track daily work
+- Manage project records
+- Generate professional PDF reports
+- Organize internship and work logs
 
 ### 🎮 Horror Game Project
-Story-driven horror game featuring puzzles, exploration, inventory systems, and immersive gameplay.
 
-### 🏗️ Game Engine Learning
-Learning rendering pipelines, terrain systems, shadow mapping, and engine architecture.
+A story-driven horror experience featuring:
+
+- Puzzle Mechanics
+- Inventory Systems
+- Atmospheric Horror
+- Interactive Environments
+- Cinematic Storytelling
+
+### 🏗️ Game Engine Learning Project
+
+Focused on learning:
+
+- Rendering Pipelines
+- Shadow Mapping
+- Terrain Systems
+- Scene Management
+- Engine Architecture
 
 ---
 
-## 🌐 Connect
+# 📈 Contribution Activity
 
 <p align="center">
-<a href="https://github.com/sohamkolte-ai">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sohamkolte-ai&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🎯 Current Goals
+
+- 🚀 Release high-quality games
+- ⚡ Master graphics programming
+- 🏗️ Build a custom game engine
+- 📱 Create useful software products
+- 🌟 Contribute to open source
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/sohamkolte-ai">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<b>Build • Learn • Improve • Repeat 🚀</b>
+  <b>Build • Learn • Improve • Repeat 🚀</b>
 </p>
